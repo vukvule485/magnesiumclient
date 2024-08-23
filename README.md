@@ -20,4 +20,4 @@ Planned Features:
 - Esp
 - and a lot more!
 
-<sub>***Note that i'm 11 years old, so I may not be able to make this client fast***</sub>
+<sub>***Note that i'm 12 years old, so I may not be able to make this client fast***</sub>
