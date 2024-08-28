@@ -9,7 +9,7 @@ body {
 header {
     background-color: rgba(0, 0, 0, 0.5);
     color: #fff;
-    padding: 1em 0;
+    padding: 1.5em 0;
 }
 
 header .container {
@@ -18,19 +18,19 @@ header .container {
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 1em;
+    padding: 0 2em;
     text-align: center;
 }
 
 header .logo {
-    width: 100px;
+    width: 120px; /* Adjusted size */
     height: auto;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em; /* Increased margin */
 }
 
 header h1 {
     margin: 0;
-    font-size: 2.5em;
+    font-size: 3em; /* Increased font size */
     font-weight: bold;
 }
 
@@ -40,20 +40,22 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
+    gap: 1.5em; /* Increased spacing between menu items */
 }
 
 nav ul li {
-    margin: 0 1em;
+    margin: 0;
 }
 
 nav ul li a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
+    font-size: 1.1em; /* Slightly larger font size */
 }
 
 section {
-    padding: 2em 1em;
+    padding: 3em 1.5em; /* Increased padding */
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -74,12 +76,13 @@ section#download {
 
 .button {
     display: inline-block;
-    padding: 0.5em 1em;
+    padding: 0.75em 1.5em; /* Increased padding */
     background-color: #007BFF;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
+    font-size: 1.1em; /* Slightly larger font size */
 }
 
 .button:hover {
@@ -90,5 +93,5 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 1em 0;
+    padding: 1.5em 0; /* Increased padding */
 }
