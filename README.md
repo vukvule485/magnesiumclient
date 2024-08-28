@@ -1,6 +1,6 @@
-![Untitled](https://github.com/user-attachments/assets/8ac64cee-0da1-4a69-aa11-c3ae87218f3f)
-<sub>yes, i made this in ms paint</sub>
-# Pebble Client
+![image](https://github.com/user-attachments/assets/a4165b8c-4f6e-4df1-b861-7b1d9cc75b80)
+
+# Magnesium Client
 
 ## ⚠ This client's first version is still in development, please be patient! ⚠
 
