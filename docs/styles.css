@@ -23,14 +23,14 @@ header .container {
 }
 
 header .logo {
-    width: 120px; /* Adjusted size */
+    width: 120px;
     height: auto;
-    margin-bottom: 1.5em; /* Increased margin */
+    margin-bottom: 1.5em;
 }
 
 header h1 {
     margin: 0;
-    font-size: 3em; /* Increased font size */
+    font-size: 3em;
     font-weight: bold;
 }
 
@@ -40,22 +40,18 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
-    gap: 1.5em; /* Increased spacing between menu items */
-}
-
-nav ul li {
-    margin: 0;
+    gap: 1.5em;
 }
 
 nav ul li a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
-    font-size: 1.1em; /* Slightly larger font size */
+    font-size: 1.1em;
 }
 
 section {
-    padding: 3em 1.5em; /* Increased padding */
+    padding: 3em 1.5em;
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -76,13 +72,13 @@ section#download {
 
 .button {
     display: inline-block;
-    padding: 0.75em 1.5em; /* Increased padding */
+    padding: 0.75em 1.5em;
     background-color: #007BFF;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-    font-size: 1.1em; /* Slightly larger font size */
+    font-size: 1.1em;
 }
 
 .button:hover {
@@ -93,5 +89,5 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 1.5em 0; /* Increased padding */
+    padding: 1.5em 0;
 }
